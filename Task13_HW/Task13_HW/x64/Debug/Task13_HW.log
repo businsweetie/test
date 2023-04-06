@@ -1,0 +1,3 @@
+﻿  Task13_HW.cpp
+C:\Users\Bugas\Desktop\Task13_HW\Task13_HW\Task13_HW.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task13_HW.vcxproj -> C:\Users\Bugas\Desktop\Task13_HW\x64\Debug\Task13_HW.exe
