@@ -33,3 +33,9 @@ $№$  | $Array 1$   | $Array 2$        | $K$      |
 5    | $1,1,1,1,1$ | $20,20,20,20,20$ | $0.9500$ |
     
 </div>
+
+**Experiment №1**. Conclusion: with identical arrays the criterion value is 0.
+
+**Experiment №2, №3**. Conclusion: Criterion value does not depend on the order of values in the array.
+
+**Experiment №4, №5**. Conclusion: value of the criterion is the greater the difference between the values of the arrays.
