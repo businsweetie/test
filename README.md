@@ -18,7 +18,18 @@ The criterion value (K):
 
 $$K = \left|\frac{M_1-M_2}{max(M1,M2)}\right|. $$
 
-Thus, the value of the criterion will be the greater the difference between the numbers in the arrays
+Thus, the value of the criterion will be the greater the difference between the numbers in the arrays.
 
 ## Numerical experiments
 
+<div align="center">
+    
+$№$  | $Array 1$   | $Array 2$        | $K$      |
+:---:|:-----------:|:----------------:|:--------:|
+1    | $1,1,1,1,1$ | $1,1,1,1,1$      | $0.0000$ |
+2    | $1,1,1,1,1$ | $1,2,2,1,1$      | $0.2857$ |
+3    | $1,1,1,1,1$ | $2,1,1,2,1$      | $0.2857$ |
+4    | $1,1,1,1,1$ | $2,2,2,2,2$      | $0.5000$ |  
+5    | $1,1,1,1,1$ | $20,20,20,20,20$ | $0.9500$ |
+    
+</div>
